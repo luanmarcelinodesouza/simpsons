@@ -1,0 +1,54 @@
+p {
+    display: flex;
+    text-align: justify;
+}
+
+img {
+    margin: 10px;
+}
+
+#lisa-personagem {
+    width: 25%;
+    height: 25%;
+    float: left;
+}
+
+#lisa {
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+
+.alinharAoCentro {
+    display: flex;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+#video {
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 560px;
+    height: 315px;
+}
+
+#fonte {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: green;
+}
+
+a:visited {
+    color: red;
+}
